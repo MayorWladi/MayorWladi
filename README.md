@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">I am a IT Engineer with experience leading software development and managing technical teams. My professional approach combines clean systems architecture with a user-centric mindset, whether coordinating high-impact projects as a Frontend Manager or building applications from scratch. <br>|<br>If you can imagine it, you can program it, that's why you should never stop learning.</p>
+<p data-importer="text" align="left">I am a IT Engineer with experience leading software development and managing technical teams. My professional approach combines clean systems architecture with a user-centric mindset, whether coordinating high-impact projects as a Frontend Manager or building applications from scratch. <br><br>If you can imagine it, you can program it, that's why you should never stop learning.</p>
 
 ###
 
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="80" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="80" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="80" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  />
   <img width="12" />
