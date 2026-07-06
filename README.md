@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="[https://raw.githubusercontent.com/mayorwladi/mayorwladi/snake-output/snake.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/pacman.svg)" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/pacman.svg" alt="Snake animation" />
 
 ###
 
