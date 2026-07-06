@@ -17,33 +17,33 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" alt="react logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="80" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="80" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="80" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="80" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="80" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="80" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="flutter logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="80" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" alt="dart logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="80" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" alt="unity logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp logo" style="height: 80px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" alt="git logo" style="height: 80px;" />
 </div>
 
 ###
