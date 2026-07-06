@@ -17,33 +17,33 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" alt="react logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="react logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="flutter logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="flutter logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="dart logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="dart logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" alt="unity logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="unity logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="csharp logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp logo" style="height: 60px;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" alt="git logo" style="height: 80px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git logo" style="height: 60px;" />
 </div>
 
 ###
@@ -54,15 +54,15 @@
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/wladimir-sanvicente/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="http://instagram.com/mayorwladi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:wladimirss142@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
