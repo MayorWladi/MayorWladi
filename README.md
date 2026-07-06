@@ -16,57 +16,57 @@
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="160" alt="javascript logo"  />
+<p data-importer="text" align="left">Rapidfire  <br><br>- 🌱 I’m currently learning Dart / C#  <br>  <br>- ⚡ Fun fact: "( )( )" is not palindrome but ") ( ( )" is<br>  <br>- 👾 Game development as a hobby  <br>  <br>- 🍴 The arepa is Venezuelan</p>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="160" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="160" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="160" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="160" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="80" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="160" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="160" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="80" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="160" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="80" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="160" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="80" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="160" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="80" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="160" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="80" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="160" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="80" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="160" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="160" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayorwladi/mayorwladi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayorwladi/mayorwladi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mayorwladi/mayorwladi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/mayorwladi/mayorwladi/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/wladimir-sanvicente/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="http://instagram.com/mayorwladi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:wladimirss142@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
